@@ -9,6 +9,38 @@ It contains two subdirectories:
 
 ---
 
+---
+## How to Run
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/samyakbhattarai/Linear_Regression_and_Gradient_Descent_Implementation.git
+cd Linear_Regression_and_Gradient_Descent_Implementatio
+```
+
+### 2. Install dependencies
+
+```bash
+pip install numpy matplotlib notebook
+```
+
+### 3. Run the notebooks
+
+Start Jupyter Notebook:
+
+```bash
+jupyter notebook
+```
+
+Then open and run:
+
+- `simple_gradient_descent_implementation`
+- `house_prediction`
+
+---
+---
+
 ## Simple Gradient Descent Implementation
 
 In this notebook, I implemented the logic behind gradient descent and linear regression.
